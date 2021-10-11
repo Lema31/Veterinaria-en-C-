@@ -1,8 +1,3 @@
-/*Proyecto de Datos 4: Registros
-Integrantes:
-Arismendi, Juan Diego CI 29.655.485
-Mata, Luis Eduardo CI 29.655.551
-Seccion: 0500*/
 
 #include<iostream>
 #include<string.h>
